@@ -1,4 +1,4 @@
-# DS102/DS104-Final-Project
+# Analysis of Recent Resale HDB Transactions and Prices
 **A simple project on data analysis and visualization
 
 The prices of HDB flats is in the spotlight recently, after news of HDB flats being transacted at record prices and of more million dollar HDB flats being transacted. This draws into question on whether HDB flats are still currently affordable and what are the finances one must have in order to afford a HDB flat of their desired specifications. 
